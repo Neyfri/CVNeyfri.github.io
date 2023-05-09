@@ -80,11 +80,17 @@ ul li a:hover {
 }
 
 @media (max-width:660px) {
-  section {
-    display: flex
-  }
   .button {
-    height: 30px,
-    width: 30px
-  }
+  border-radius: 10px;
+  background-color: blue;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  margin: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: flex;
+  font-size: 16px;
+  cursor: pointer;
+}
 }
