@@ -62,40 +62,6 @@ ul li a:hover {
 }
 
 .button {
-  border-radius: 10px;
-  background-color: blue;
-  border: none;
-  color: white;
-  padding: 15px 32px;
-  margin: 20px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-  cursor: pointer;
-}
-
-.button:hover {
-  background-color: green;
-}
-
-@media (max-width:660px) {
-  .button {
-  border-radius: 10px;
-  background-color: blue;
-  border: none;
-  color: white;
-  padding: 15px 32px;
-  margin: 20px;
-  text-align: center;
-  text-decoration: none;
-  display: flex;
-  font-size: 16px;
-  cursor: pointer;
-}
-}
-
-.button {
   -moz-appearance: none;
   -webkit-appearance: none;
   appearance: none;
