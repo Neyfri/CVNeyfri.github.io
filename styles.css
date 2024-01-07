@@ -179,3 +179,9 @@ ul li a:hover {
 .button:hover .button_lg::after {
   background-color: #fff;
 }
+footer {
+  background-color: #333;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
